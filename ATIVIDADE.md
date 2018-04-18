@@ -1,6 +1,6 @@
-# Atividade pr·tica de introduÁ„o
+# Atividade pr√°tica de introdu√ß√£o
 
-## Teste subtÌtulo
+## Teste subt√≠tulo
 
 + item 1
 + item 2
@@ -8,9 +8,11 @@
 
 http://google.com
 
+```
 #include <stdio.h>
 
 int main () {
-	printf("Ol· Diego\n");
+	printf("Ol√° Diego\n");
 	return 0;
 }
+```
