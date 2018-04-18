@@ -12,7 +12,7 @@ http://google.com
 #include <stdio.h>
 
 int main () {
-	printf("Olá Diego\n");
+	printf("Olá Diogo\n");
 	return 0;
 }
 ```
